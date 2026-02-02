@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Muthiru/Muthiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I’m Daniel Muthiru 👋
 
-Here are some ideas to get you started:
+💻 Computer Science graduate (final year)  
+🌍 Software Developer  
+🧠 Interested in full-stack development and real-world systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I build full-stack web applications using modern frameworks  
+- Experience with real-time dashboards, APIs, and cloud services  
+- Strong foundation in software engineering and problem-solving  
+- Focused on writing clean, maintainable, production-ready code  
+
+📌 Currently open to software engineering roles
