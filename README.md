@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-## Hi, I’m Daniel Muthiru 👋<br><br>💻 Computer Science graduate (final year)  <br>🌍 Software Developer  <br>🧠 Interested in full-stack development and real-world systems  <br><br>- I build full-stack web applications using modern frameworks  <br>- Experience with real-time dashboards, APIs, and cloud services  <br>- Strong foundation in software engineering and problem-solving  <br>- Focused on writing clean, maintainable, production-ready code  <br><br>📌 Currently open to software engineering roles<br>
+## Hi, I’m Daniel Muthiru Njama 👋<br><br>💻 Computer Science graduate (final year)  <br>🌍 Software Developer  <br>🧠 Interested in full-stack development and real-world systems  <br><br>- I build full-stack web applications using modern frameworks  <br>- Experience with real-time dashboards, APIs, and cloud services  <br>- Strong foundation in software engineering and problem-solving  <br>- Focused on writing clean, maintainable, production-ready code  <br><br>📌 Currently open to software engineering roles<br>
 
 
 ## 🌐 Socials:
